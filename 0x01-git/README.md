@@ -1,1 +1,1 @@
-Project 1 of Git
+I've completed my first project on 'Git'.
